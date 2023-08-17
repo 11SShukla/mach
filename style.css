@@ -1,0 +1,76 @@
+h1.head{
+font-size: 100px;
+font-weight: 400;
+font-style: oblique;
+text-align: center;
+color: rgb(39, 1, 1);
+font-family: Georgia, serif;
+}
+h1.head{
+    text-shadow: 5px 5px rgb(194, 98, 60);
+}
+
+h2{
+    color: rgb(41, 2, 2);
+    text-align: center;
+text-decoration: wavy;
+font-weight: 200;
+font-size: 75px;
+}
+h2{
+    text-shadow: 4px 4px rgb(194, 98, 60) ;
+}
+h3{
+    text-align: center;
+}
+body {
+    background-image: url(https://thumbs.dreamstime.com/b/nepal-jungle-subtropical-around-annapurna-56902984.jpg);
+    background-attachment: scroll;
+    background-repeat: repeat-x;
+    
+}
+body{
+    background-color: rgb(221, 200, 143);
+}
+.center{
+    text-align: center;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50vh ;
+  width: 35vw;
+
+}
+div,.para{
+    text-align: center;
+}
+p,.ending{
+    line-height: 50px;
+    font-style: oblique;
+    font-family:serif;
+    font-size: 36px;
+    color: rgb(5, 5, 54)
+
+}
+.paragraph{
+    color: rgb(10, 10, 10);
+    font-weight: 60;
+    font-style: initial;
+    font-family: fantasy;
+    font-size: 60px;
+}
+.last{
+    color: rgb(10, 10, 10);
+    font-weight: 25;
+    font-style: initial;
+    font-family: fantasy;
+    font-size: 50px;
+}
+body{
+   
+    padding: 8px;
+}
+.para{
+    font-weight: 200;
+font-size: 75px;
+}
